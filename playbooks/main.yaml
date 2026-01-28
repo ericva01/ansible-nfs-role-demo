@@ -1,0 +1,7 @@
+---
+- name: Setup NFS server and Environment
+  hosts: all
+  become: true
+  roles:
+    - common
+    - nfs
