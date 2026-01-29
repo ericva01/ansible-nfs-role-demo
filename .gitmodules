@@ -1,3 +1,0 @@
-[submodule "ansible-nfs-role"]
-	path = ansible-nfs-role
-	url = https://github.com/ericva01/ansible-nfs-role.git
